@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding:  0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: #181818;
+}
+
+main{
+    height: 100vh;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+section{
+background-color: #2a2a2a; 
+max-width: 500px;
+width: 100%;
+text-align: center;
+}
+
