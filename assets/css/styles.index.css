@@ -18,13 +18,27 @@ main {
 
 
 
-section{
+/* {
 background-color: #2a2a2a; 
 max-width: 500px;
 width: 50%;
-text-align: center;
+text-align: center; */
 
+
+section{
+    max-width: 800px;
+    width: 150%;
+    height: 90%;
+    padding: 90px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #ffffff;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 20%; */
+  
 }
+
 
 
 h1 {
@@ -32,14 +46,6 @@ h1 {
     color: #d30000;
 }
 
-#postForm {
-    max-width: 500px;
-    width: 100%;
-    padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    background-color: #ffffff;
-}
 
 label,
 input,
